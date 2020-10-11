@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestCOVID</string>
+    <string name="sampleText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque leo sapien, gravida ac ipsum vel, ullamcorper tincidunt diam. Nulla posuere interdum risus, nec tristique mauris accumsan eu. Maecenas velit leo, consequat sed nisi sit amet, gravida vestibulum erat. Ut posuere lacus in leo feugiat dictum. Cras dapibus laoreet erat sit amet feugiat. Suspendisse potenti. Nunc feugiat vulputate leo, vel gravida enim condimentum sit amet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum luctus nulla sed elit molestie aliquet. Integer interdum orci tortor, vitae rhoncus velit venenatis vel. Praesent non ipsum eget ipsum pharetra ullamcorper.</string>
+    <string name="questions">Is your temperature over 39 degrees?</string>
+</resources>
